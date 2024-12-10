@@ -56,8 +56,7 @@ Puedes explorar algunos de mis proyectos visitando mi [portafolio en línea](htt
 
 ¿Interesado en colaborar o conocer más sobre mis proyectos? ¡Estoy a solo un clic de distancia!  
 
-📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:tuemail@example.com)  
-🌐 [Visita mi portafolio](https://csantana.vercel.app/)  
+📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:carlos.santana.gacitua@gmail.com)    
 
 No dudes en escribirme para consultas, ideas o propuestas. ¡Estaré encantado de responderte!
 
