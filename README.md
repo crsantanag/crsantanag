@@ -60,3 +60,9 @@ Puedes explorar algunos de mis proyectos visitando mi [portafolio en línea](htt
 
 No dudes en escribirme para consultas, ideas o propuestas. ¡Estaré encantado de responderte!
 
+<p align="center">
+<a href="https://github.com/crsantanag">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crsantanag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crsantanag&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
