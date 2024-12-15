@@ -22,7 +22,7 @@ Soy un profesional con más de 30 años de experiencia en la dirección y gesti�
 [![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Ruby](https://img.shields.io/badg e/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white&labelColor=101010)](https://www.ruby-lang.org)
+[![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white&labelColor=101010)](https://www.ruby-lang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org)  
 
 ### Frameworks y Librerías  
