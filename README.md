@@ -41,6 +41,7 @@ Soy un profesional con más de 30 años de experiencia en la dirección y gesti�
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)](https://www.postgresql.org)  
 
 ### Control de Versiones y Repositorios de Código  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com)
 
 ### Plataformas de Despliegue  
