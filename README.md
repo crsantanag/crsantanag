@@ -1,4 +1,3 @@
-.
 # Carlos Santana
 
 Soy un profesional con más de 30 años de experiencia en la dirección y gestión estratégica de pequeñas y medianas empresas. En los últimos años, he actualizado mis conocimientos en el área informática, enfocándome en lo que más me apasiona: **el desarrollo de software**. 
