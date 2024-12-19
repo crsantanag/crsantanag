@@ -46,6 +46,7 @@ Soy un profesional con más de 30 años de experiencia en la dirección y gesti�
 ### Plataformas de Despliegue  
 [![Render](https://img.shields.io/badge/Render-0099FF?style=for-the-badge&logo=render&logoColor=white&labelColor=101010)](https://render.com)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)](https://www.netlify.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://vercel.com)
 
 ## 🌐 Proyectos
 
